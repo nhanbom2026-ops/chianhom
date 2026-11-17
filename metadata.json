@@ -1,0 +1,6 @@
+{
+  "name": "Chia Nhóm Ngẫu Nhiên",
+  "description": "Công cụ chia nhóm sinh viên ngẫu nhiên, đồng đều và trình chiếu rõ nét trên màn hình lớp học dành cho giảng viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
